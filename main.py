@@ -1,7 +1,8 @@
 from flask import Flask
 from flask import request
 from flask import json
-from python3 import vnbnbkjkjnkjnksncd
+
+ISSUE SUCCESS
 
 token = "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"
 headers = {"Authorization" : "token {}".format(token)}
@@ -9,7 +10,6 @@ data_lib = [{"title": "Bug still not solve"}, {"title": "Add a new feature"}, {"
 url = "https://api.github.com/repos/hsaikarthik2000/cio-hackathon-2022/issues"
 
 data = {"title": "Action Done"}
-jhbjxhbdjhebhekjbcxkhebckebcdkjebckebdclkebcdlkbekhbd
 
 app = Flask(__name__)
 
