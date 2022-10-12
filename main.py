@@ -2,8 +2,8 @@ from flask import Flask
 from flask import request
 from flask import json
 
-ISSUE SUCCESSFUL
-Done and Dusted
+ISSUE CREATED
+JOB SUCCESSFUL
 
 token = "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"
 headers = {"Authorization" : "token {}".format(token)}
